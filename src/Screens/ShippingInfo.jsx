@@ -70,7 +70,7 @@ function ShippingInfo() {
 
     var myHeaders = new Headers();
     myHeaders.append("Content-Type", "application/json");
-    // myHeaders.append("AuthoriZation", "Bearer " + JSON.parse(localStorage.getItem('jwt')));
+    // myHeaders.append("AuthoriZation", "Bearer " + JSON.parse(localStorage.getItem('jwt')));?
 
     fetch('http://localhost:8000/api/shipping', {
       method: 'POST',
