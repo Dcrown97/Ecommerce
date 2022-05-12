@@ -64,7 +64,7 @@ function CartTotals({ items, paystackprop }) {
 
 
 
-    // console.log('payment', user_id, product_id, price, quantity, productTotal, transTotal, tranStatus, transRef,);
+    // console.log('payment', user_id, product_id, price, quantity, productTotal, transTotal, tranStatus, transRef,);;
     let payment = {
       // user_id
       reference,
