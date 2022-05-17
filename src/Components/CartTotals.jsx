@@ -32,7 +32,7 @@ function CartTotals({ items, paystackprop }) {
   const handleSuccess = (reference) => {
     // Implementation for whatever you want to do with reference and after success call.
     // console.log("loading")
-    // console.log('payload', emailNumber, firstName, lastName, address, apartment, city, country, postalCode,);;
+    // console.log('payload', emailNumber, firstName, lastName, address, apartment, city, country, postalCode,);
     // let payload = {
     //   emailNumber,
     //   firstName,
